@@ -10,8 +10,8 @@ An HTTP server that recives a simple HTTP POST message in the form of:
 "cc": "GBR"
 }
 ```
-##Chance
+## Chance
 And will return a bid to messages (20% chance response)
 
-##Bid
+## Bid
 The bidding is auctioned randomly. (bid-floor -> 2xbid-floor).
